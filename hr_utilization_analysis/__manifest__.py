@@ -4,7 +4,7 @@
 
 {
     "name": "Task Logs Utilization Analysis",
-    "version": "13.0.1.0.1",
+    "version": "13.0.2.0.0",
     "category": "Human Resources",
     "maintainers": ["alexey-pelykh"],
     "website": "https://github.com/OCA/timesheet",
@@ -13,7 +13,7 @@
     "installable": True,
     "application": False,
     "summary": "View Utilization Analysis from Task Logs.",
-    "depends": ["hr_timesheet"],
+    "depends": ["hr_timesheet", "date_range"],
     "data": [
         "views/hr_department.xml",
         "views/hr_employee.xml",
