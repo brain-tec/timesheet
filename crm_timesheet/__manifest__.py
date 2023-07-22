@@ -6,7 +6,7 @@
 {
     'name': "CRM Timesheet",
     'category': 'Customer Relationship Management',
-    'version': '11.0.1.0.0',
+    'version': '11.0.1.0.1',
     'depends': [
         'crm',
         'hr_timesheet'
@@ -17,7 +17,7 @@
     ],
     'author': 'Tecnativa, '
               'Odoo Community Association (OCA)',
-    'website': 'https://github.com/OCA/hr-timesheet',
+    'website': 'https://github.com/OCA/timesheet',
     'license': 'AGPL-3',
     'installable': True,
 }

@@ -5,10 +5,10 @@
     'name': 'Project Task Stage Allow Timesheet',
     'summary': """
         Allows to tell that a task stage is opened for timesheets.""",
-    'version': '11.0.1.0.0',
+    'version': '11.0.1.0.1',
     'license': 'AGPL-3',
     'author': 'Odoo Community Association (OCA), ACSONE SA/NV',
-    'website': 'https://github.com/OCA/hr-timesheet',
+    'website': 'https://github.com/OCA/timesheet',
     'depends': [
         'hr_timesheet',
         'project',
