@@ -26,7 +26,7 @@ addon | version | maintainers | summary
 [hr_timesheet_activity_begin_end](hr_timesheet_activity_begin_end/) | 14.0.1.0.2 |  | Timesheet Activities - Begin/End Hours
 [hr_timesheet_analysis](hr_timesheet_analysis/) | 14.0.1.0.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Analyze tracked time in Graph views
 [hr_timesheet_employee_analytic_tag](hr_timesheet_employee_analytic_tag/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Hr Timesheet Employee Analytic Tag
-[hr_timesheet_purchase_order](hr_timesheet_purchase_order/) | 14.0.1.0.0 |  | HR Timesheet Purchase Order
+[hr_timesheet_purchase_order](hr_timesheet_purchase_order/) | 14.0.1.1.0 | [![dessanhemrayev](https://github.com/dessanhemrayev.png?size=30px)](https://github.com/dessanhemrayev) [![aleuffre](https://github.com/aleuffre.png?size=30px)](https://github.com/aleuffre) [![renda-dev](https://github.com/renda-dev.png?size=30px)](https://github.com/renda-dev) | HR Timesheet Purchase Order
 [hr_timesheet_report](hr_timesheet_report/) | 14.0.1.0.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Generate Timesheet Report from Task Logs
 [hr_timesheet_report_milestone](hr_timesheet_report_milestone/) | 14.0.1.0.0 |  | Extend Timesheet by adding Milestone
 [hr_timesheet_sheet](hr_timesheet_sheet/) | 14.0.1.4.1 |  | Timesheet Sheets, Activities
@@ -47,7 +47,7 @@ addon | version | maintainers | summary
 [project_task_stage_allow_timesheet](project_task_stage_allow_timesheet/) | 14.0.1.0.0 |  | Allows to tell that a task stage is opened for timesheets.
 [sale_timesheet_budget](sale_timesheet_budget/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Sale timesheet budget
 [sale_timesheet_line_exclude](sale_timesheet_line_exclude/) | 14.0.1.0.1 |  | Exclude Timesheet Line from Sale Order
-[sale_timesheet_order_line_no_update](sale_timesheet_order_line_no_update/) | 14.0.1.1.2 | [![ilyasProgrammer](https://github.com/ilyasProgrammer.png?size=30px)](https://github.com/ilyasProgrammer) | Sale Timesheet Order Line no Update
+[sale_timesheet_order_line_no_update](sale_timesheet_order_line_no_update/) | 14.0.1.1.3 | [![ilyasProgrammer](https://github.com/ilyasProgrammer.png?size=30px)](https://github.com/ilyasProgrammer) | Sale Timesheet Order Line no Update
 [sale_timesheet_order_line_sync](sale_timesheet_order_line_sync/) | 14.0.1.0.0 |  | Propagate task order line in not invoiced timesheet lines
 [sale_timesheet_rounded](sale_timesheet_rounded/) | 14.0.1.0.1 |  | Round timesheet entries amount based on project settings.
 
