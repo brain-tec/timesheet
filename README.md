@@ -17,7 +17,11 @@ timesheet
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[hr_timesheet_task_required](hr_timesheet_task_required/) | 18.0.1.0.0 |  | Set task on timesheet as a mandatory field
 
 [//]: # (end addons)
 

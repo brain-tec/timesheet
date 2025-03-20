@@ -1,0 +1,11 @@
+[project]
+name = "odoo-addons-oca-timesheet"
+version = "18.0.20250319.0"
+dependencies = [
+    "odoo-addon-hr_timesheet_task_required==18.0.*",
+]
+classifiers=[
+    "Programming Language :: Python",
+    "Framework :: Odoo",
+    "Framework :: Odoo :: 18.0",
+]
