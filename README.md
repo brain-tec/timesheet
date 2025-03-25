@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [hr_timesheet_task_required](hr_timesheet_task_required/) | 18.0.1.0.0 |  | Set task on timesheet as a mandatory field
+[hr_timesheet_task_stage](hr_timesheet_task_stage/) | 18.0.1.0.0 |  | Open/Close task from corresponding Task Log entry
 
 [//]: # (end addons)
 

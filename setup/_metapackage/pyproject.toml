@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-timesheet"
-version = "18.0.20250319.0"
+version = "18.0.20250324.0"
 dependencies = [
     "odoo-addon-hr_timesheet_task_required==18.0.*",
+    "odoo-addon-hr_timesheet_task_stage==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
