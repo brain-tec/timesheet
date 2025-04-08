@@ -12,6 +12,7 @@ setuptools.setup(
         'odoo-addon-hr_employee_cost_history>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_begin_end>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_calendar>=16.0dev,<16.1dev',
+        'odoo-addon-hr_timesheet_date_order_desc>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_editable_top>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_employee_analytic_tag>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_name_customer>=16.0dev,<16.1dev',
