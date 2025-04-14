@@ -39,6 +39,7 @@ addon | version | maintainers | summary
 [hr_timesheet_task_required](hr_timesheet_task_required/) | 16.0.1.0.0 |  | Set task on timesheet as a mandatory field
 [hr_timesheet_task_stage](hr_timesheet_task_stage/) | 16.0.1.0.1 |  | Open/Close task from corresponding Task Log entry
 [hr_timesheet_time_type](hr_timesheet_time_type/) | 16.0.1.0.0 |  | Ability to add time type in timesheet lines.
+[hr_timesheet_type_non_billable](hr_timesheet_type_non_billable/) | 16.0.1.0.0 | [![mpascuall](https://github.com/mpascuall.png?size=30px)](https://github.com/mpascuall) | HR Timesheet Type Non Billable
 [project_task_analytic_propagation](project_task_analytic_propagation/) | 16.0.1.0.0 | [![edlopen](https://github.com/edlopen.png?size=30px)](https://github.com/edlopen) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Updates timesheet's analytic account when their task changes the analytic.
 [project_task_stage_allow_timesheet](project_task_stage_allow_timesheet/) | 16.0.1.0.1 |  | Allows to tell that a task stage is opened for timesheets.
 [sale_timesheet_budget](sale_timesheet_budget/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Sale timesheet budget
