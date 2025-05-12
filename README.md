@@ -32,6 +32,7 @@ addon | version | maintainers | summary
 [hr_timesheet_task_stage](hr_timesheet_task_stage/) | 17.0.1.1.0 |  | Open/Close task from corresponding Task Log entry
 [hr_timesheet_time_type](hr_timesheet_time_type/) | 17.0.1.0.0 |  | Ability to add time type in timesheet lines.
 [hr_timesheet_type_non_billable](hr_timesheet_type_non_billable/) | 17.0.1.0.0 | [![mpascuall](https://github.com/mpascuall.png?size=30px)](https://github.com/mpascuall) | HR Timesheet Type Non Billable
+[hr_timesheet_unusual_days](hr_timesheet_unusual_days/) | 17.0.1.0.0 | [![CRogos](https://github.com/CRogos.png?size=30px)](https://github.com/CRogos) | HR Timesheet Calendar Unusual Days
 [project_task_analytic_propagation](project_task_analytic_propagation/) | 17.0.1.0.0 | [![edlopen](https://github.com/edlopen.png?size=30px)](https://github.com/edlopen) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Updates timesheet's analytic account when their task changes the analytic.
 [sale_timesheet_line_exclude](sale_timesheet_line_exclude/) | 17.0.1.2.1 |  | Exclude Timesheet Line from Sale Order
 [sale_timesheet_rounded](sale_timesheet_rounded/) | 17.0.1.0.0 |  | Round timesheet entries amount based on project settings.
