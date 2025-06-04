@@ -25,13 +25,13 @@ addon | version | maintainers | summary
 [crm_timesheet](crm_timesheet/) | 12.0.2.1.1 |  | CRM Timesheet
 [hr_employee_product](hr_employee_product/) | 12.0.1.0.1 |  | Product is an employee
 [hr_timesheet_activity_begin_end](hr_timesheet_activity_begin_end/) | 12.0.1.1.2 |  | Timesheet Activities - Begin/End Hours
-[hr_timesheet_analysis](hr_timesheet_analysis/) | 12.0.1.0.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Analyze tracked time in Pivot, Graph views
+[hr_timesheet_analysis](hr_timesheet_analysis/) | 12.0.1.0.0 | <a href='https://github.com/alexey-pelykh'><img src='https://github.com/alexey-pelykh.png' width='32' height='32' style='border-radius:50%;' alt='alexey-pelykh'/></a> | Analyze tracked time in Pivot, Graph views
 [hr_timesheet_employee_cost_contract](hr_timesheet_employee_cost_contract/) | 12.0.1.0.2 |  | Compute employee cost from contracts
 [hr_timesheet_employee_cost_currency](hr_timesheet_employee_cost_currency/) | 12.0.1.0.0 |  | Configure employee's Timesheet Cost currency.
 [hr_timesheet_employee_required](hr_timesheet_employee_required/) | 12.0.1.1.1 |  | Require Employee for any Time Log entry
 [hr_timesheet_nonpayable](hr_timesheet_nonpayable/) | 12.0.1.0.0 |  | Mark timesheet entries as non-payable to exclude from costs.
 [hr_timesheet_portal](hr_timesheet_portal/) | 12.0.1.0.1 |  | Fill in timesheets via the portal
-[hr_timesheet_report](hr_timesheet_report/) | 12.0.1.0.1 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Generate Timesheet Report from Task Logs
+[hr_timesheet_report](hr_timesheet_report/) | 12.0.1.0.1 | <a href='https://github.com/alexey-pelykh'><img src='https://github.com/alexey-pelykh.png' width='32' height='32' style='border-radius:50%;' alt='alexey-pelykh'/></a> | Generate Timesheet Report from Task Logs
 [hr_timesheet_role](hr_timesheet_role/) | 12.0.2.0.1 |  | Track time on project according to the role assigned
 [hr_timesheet_sheet](hr_timesheet_sheet/) | 12.0.3.7.6 |  | Timesheet Sheets, Activities
 [hr_timesheet_sheet_activity](hr_timesheet_sheet_activity/) | 12.0.1.0.0 |  | Automatic activities related to submission and review of timesheet sheets
@@ -48,7 +48,7 @@ addon | version | maintainers | summary
 [hr_timesheet_task_required](hr_timesheet_task_required/) | 12.0.1.0.5 |  | Set task on timesheet as a mandatory field
 [hr_timesheet_task_stage](hr_timesheet_task_stage/) | 12.0.1.1.1 |  | Open/Close task from corresponding Task Log entry
 [hr_timesheet_time_type](hr_timesheet_time_type/) | 12.0.1.0.1 |  | Ability to add time type in timesheet lines.
-[hr_utilization_analysis](hr_utilization_analysis/) | 12.0.1.1.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | View Utilization Analysis from Task Logs.
+[hr_utilization_analysis](hr_utilization_analysis/) | 12.0.1.1.0 | <a href='https://github.com/alexey-pelykh'><img src='https://github.com/alexey-pelykh.png' width='32' height='32' style='border-radius:50%;' alt='alexey-pelykh'/></a> | View Utilization Analysis from Task Logs.
 [hr_utilization_report](hr_utilization_report/) | 12.0.1.0.3 |  | Generate Utilization Report from Task Logs
 [project_task_stage_allow_timesheet](project_task_stage_allow_timesheet/) | 12.0.1.0.1 |  | Allows to tell that a task stage is opened for timesheets.
 [project_timesheet_holidays_integrity](project_timesheet_holidays_integrity/) | 12.0.1.0.1 |  | Ensures and restores integrity of Leaves and Timesheets data
