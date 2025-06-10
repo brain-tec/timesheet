@@ -28,6 +28,7 @@ addon | version | maintainers | summary
 [hr_timesheet_task_required](hr_timesheet_task_required/) | 18.0.1.0.0 |  | Set task on timesheet as a mandatory field
 [hr_timesheet_task_stage](hr_timesheet_task_stage/) | 18.0.1.0.1 |  | Open/Close task from corresponding Task Log entry
 [hr_timesheet_time_type](hr_timesheet_time_type/) | 18.0.1.0.0 |  | Ability to add time type in timesheet lines.
+[hr_timesheet_unusual_days](hr_timesheet_unusual_days/) | 18.0.1.0.0 | <a href='https://github.com/CRogos'><img src='https://github.com/CRogos.png' width='32' height='32' style='border-radius:50%;' alt='CRogos'/></a> | HR Timesheet Calendar Unusual Days
 [sale_timesheet_line_exclude](sale_timesheet_line_exclude/) | 18.0.1.0.0 |  | Exclude Timesheet Line from Sale Order
 [sale_timesheet_timeline](sale_timesheet_timeline/) | 18.0.1.0.0 |  | Dates planning in sales order lines
 
