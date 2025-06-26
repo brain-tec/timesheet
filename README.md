@@ -24,6 +24,7 @@ addon | version | maintainers | summary
 [crm_timesheet](crm_timesheet/) | 17.0.1.0.1 |  | CRM Timesheet
 [hr_timesheet_begin_end](hr_timesheet_begin_end/) | 17.0.1.0.1 |  | Timesheet - Begin/End Hours
 [hr_timesheet_calendar](hr_timesheet_calendar/) | 17.0.1.0.0 | <a href='https://github.com/lbarry-apsl'><img src='https://github.com/lbarry-apsl.png' width='32' height='32' style='border-radius:50%;' alt='lbarry-apsl'/></a> | HR Timesheet Calendar
+[hr_timesheet_date_order_desc](hr_timesheet_date_order_desc/) | 17.0.1.0.0 | <a href='https://github.com/lbarry-apsl'><img src='https://github.com/lbarry-apsl.png' width='32' height='32' style='border-radius:50%;' alt='lbarry-apsl'/></a> | Add new timesheet entries to the top of the list and order by date descending
 [hr_timesheet_editable_top](hr_timesheet_editable_top/) | 17.0.1.0.0 |  | Add new timesheet entries to the top of the list
 [hr_timesheet_sheet](hr_timesheet_sheet/) | 17.0.1.0.0 |  | Timesheet Sheets, Activities
 [hr_timesheet_sheet_autodraft](hr_timesheet_sheet_autodraft/) | 17.0.1.0.0 |  | Automatically draft a Timesheet Sheet for every time entry that does not have a relevant Timesheet Sheet existing.
