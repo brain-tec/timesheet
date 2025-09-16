@@ -16,6 +16,7 @@ setuptools.setup(
         'odoo-addon-hr_timesheet_editable_top>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_employee_analytic_tag>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_name_customer>=16.0dev,<16.1dev',
+        'odoo-addon-hr_timesheet_portal>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_predefined_description>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_report>=16.0dev,<16.1dev',
         'odoo-addon-hr_timesheet_report_rounded>=16.0dev,<16.1dev',

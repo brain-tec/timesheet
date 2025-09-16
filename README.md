@@ -29,6 +29,7 @@ addon | version | maintainers | summary
 [hr_timesheet_editable_top](hr_timesheet_editable_top/) | 16.0.1.0.0 |  | Add new timesheet entries to the top of the list
 [hr_timesheet_employee_analytic_tag](hr_timesheet_employee_analytic_tag/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Hr Timesheet Employee Analytic Tag
 [hr_timesheet_name_customer](hr_timesheet_name_customer/) | 16.0.1.1.0 |  | Add 'Description Customer' field for timesheets
+[hr_timesheet_portal](hr_timesheet_portal/) | 16.0.1.0.0 |  | Fill in timesheets via the portal
 [hr_timesheet_predefined_description](hr_timesheet_predefined_description/) | 16.0.1.0.0 | <a href='https://github.com/juanjosesegui-tecnativa'><img src='https://github.com/juanjosesegui-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='juanjosesegui-tecnativa'/></a> | Predefined descriptions for timesheet entries
 [hr_timesheet_report](hr_timesheet_report/) | 16.0.1.0.0 | <a href='https://github.com/alexey-pelykh'><img src='https://github.com/alexey-pelykh.png' width='32' height='32' style='border-radius:50%;' alt='alexey-pelykh'/></a> | Generate Timesheet Report from Task Logs
 [hr_timesheet_report_rounded](hr_timesheet_report_rounded/) | 16.0.1.0.0 |  | Show rounded time in the Timesheet Reports
