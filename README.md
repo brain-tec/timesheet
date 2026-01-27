@@ -23,13 +23,14 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [crm_timesheet](crm_timesheet/) | 18.0.1.0.0 |  | CRM Timesheet
 [hr_employee_cost_history](hr_employee_cost_history/) | 18.0.1.0.0 | <a href='https://github.com/SabrinaRMArtin'><img src='https://github.com/SabrinaRMArtin.png' width='32' height='32' style='border-radius:50%;' alt='SabrinaRMArtin'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> | Adds an history to employee's costs.
-[hr_timesheet_begin_end](hr_timesheet_begin_end/) | 18.0.1.0.1 |  | Timesheet - Begin/End Hours
+[hr_timesheet_begin_end](hr_timesheet_begin_end/) | 18.0.1.0.2 |  | Timesheet - Begin/End Hours
 [hr_timesheet_calendar](hr_timesheet_calendar/) | 18.0.1.1.0 | <a href='https://github.com/lbarry-apsl'><img src='https://github.com/lbarry-apsl.png' width='32' height='32' style='border-radius:50%;' alt='lbarry-apsl'/></a> | HR Timesheet Calendar
 [hr_timesheet_day_week](hr_timesheet_day_week/) | 18.0.1.0.0 |  | Timesheets - Day of Week
 [hr_timesheet_editable_top](hr_timesheet_editable_top/) | 18.0.1.0.0 |  | Add new timesheet entries to the top of the list
 [hr_timesheet_employee_analytic_tag](hr_timesheet_employee_analytic_tag/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Hr Timesheet Employee Analytic Tag
+[hr_timesheet_name_customer](hr_timesheet_name_customer/) | 18.0.1.0.0 |  | Add 'Description Customer' field for timesheets
 [hr_timesheet_sheet](hr_timesheet_sheet/) | 18.0.1.0.0 |  | Timesheet Sheets, Activities
-[hr_timesheet_sheet_attendance](hr_timesheet_sheet_attendance/) | 18.0.1.0.0 |  | HR Timesheet Sheet Attendance
+[hr_timesheet_sheet_attendance](hr_timesheet_sheet_attendance/) | 18.0.1.0.1 |  | HR Timesheet Sheet Attendance
 [hr_timesheet_sheet_autodraft](hr_timesheet_sheet_autodraft/) | 18.0.1.0.0 |  | Automatically draft a Timesheet Sheet for every time entry that does not have a relevant Timesheet Sheet existing.
 [hr_timesheet_sheet_policy_project_manager](hr_timesheet_sheet_policy_project_manager/) | 18.0.1.0.0 |  | Allows setting Project Manager as Reviewer
 [hr_timesheet_sheet_warning](hr_timesheet_sheet_warning/) | 18.0.1.0.0 |  | Timesheet Sheets, Activities
