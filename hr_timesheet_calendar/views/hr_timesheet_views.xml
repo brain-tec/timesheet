@@ -9,7 +9,7 @@
         <field name="arch" type="xml">
             <calendar
                 string="Timesheet Lines"
-                color="commercial_partner_id"
+                color="project_id"
                 hide_time="True"
                 mode="week"
                 date_start="date_time"
