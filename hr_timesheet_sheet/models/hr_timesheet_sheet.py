@@ -229,7 +229,7 @@ class Sheet(models.Model):
     def _get_complete_name_components(self):
         """Hook for extensions"""
         self.ensure_one()
-        return [self.employee_id.display_name]
+        return [self.employee_id.display_name or ""]
 
     def _get_overlapping_sheet_domain(self):
         """Hook for extensions"""
@@ -357,7 +357,14 @@ class Sheet(models.Model):
             ("project_id", "!=", False),
         ]
 
-    @api.depends("date_start", "date_end")
+    @api.depends(
+        "date_start",
+        "date_end",
+        "timesheet_ids.unit_amount",
+        "timesheet_ids.project_id",
+        "timesheet_ids.task_id",
+        "timesheet_ids.date",
+    )
     def _compute_line_ids(self):
         SheetLine = self.env["hr_timesheet.sheet.line"]
         for sheet in self:
