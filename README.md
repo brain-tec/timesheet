@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# timesheet
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/timesheet&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/timesheet/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/timesheet/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/timesheet/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/timesheet/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/timesheet-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/timesheet-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# timesheet
 
 TODO: add repo description.
 
@@ -35,8 +36,8 @@ addon | version | maintainers | summary
 [hr_timesheet_report](hr_timesheet_report/) | 16.0.1.0.0 | <a href='https://github.com/alexey-pelykh'><img src='https://github.com/alexey-pelykh.png' width='32' height='32' style='border-radius:50%;' alt='alexey-pelykh'/></a> | Generate Timesheet Report from Task Logs
 [hr_timesheet_report_rounded](hr_timesheet_report_rounded/) | 16.0.1.0.0 |  | Show rounded time in the Timesheet Reports
 [hr_timesheet_sheet](hr_timesheet_sheet/) | 16.0.1.2.0 |  | Timesheet Sheets, Activities
-[hr_timesheet_sheet_attendance](hr_timesheet_sheet_attendance/) | 16.0.1.0.0 |  | HR Timesheet Sheet Attendance
-[hr_timesheet_sheet_autodraft](hr_timesheet_sheet_autodraft/) | 16.0.1.0.0 |  | Automatically draft a Timesheet Sheet for every time entry that does not have a relevant Timesheet Sheet existing.
+[hr_timesheet_sheet_attendance](hr_timesheet_sheet_attendance/) | 16.0.1.0.1 |  | HR Timesheet Sheet Attendance
+[hr_timesheet_sheet_autodraft](hr_timesheet_sheet_autodraft/) | 16.0.1.0.1 |  | Automatically draft a Timesheet Sheet for every time entry that does not have a relevant Timesheet Sheet existing.
 [hr_timesheet_sheet_policy_department_manager](hr_timesheet_sheet_policy_department_manager/) | 16.0.1.0.0 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> | Allows setting Department Manager as Reviewer
 [hr_timesheet_sheet_policy_project_manager](hr_timesheet_sheet_policy_project_manager/) | 16.0.1.0.0 |  | Allows setting Project Manager as Reviewer
 [hr_timesheet_task_domain](hr_timesheet_task_domain/) | 16.0.1.0.0 |  | Limit task selection to tasks on currently-selected project
