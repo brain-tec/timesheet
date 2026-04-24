@@ -1,7 +1,8 @@
 [project]
 name = "odoo-addons-oca-timesheet"
-version = "19.0.20260412.0"
+version = "19.0.20260424.0"
 dependencies = [
+    "odoo-addon-hr_timesheet_day_week==19.0.*",
     "odoo-addon-hr_timesheet_task_required==19.0.*",
     "odoo-addon-hr_timesheet_task_stage==19.0.*",
     "odoo-addon-hr_timesheet_time_control==19.0.*",
