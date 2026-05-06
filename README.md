@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[hr_timesheet_autofill_project_off](hr_timesheet_autofill_project_off/) | 19.0.1.0.0 |  | Timesheet - Autofill project off
 [hr_timesheet_begin_end](hr_timesheet_begin_end/) | 19.0.1.0.0 |  | Timesheet - Begin/End Hours
 [hr_timesheet_day_week](hr_timesheet_day_week/) | 19.0.1.0.0 |  | Timesheets - Day of Week
 [hr_timesheet_task_required](hr_timesheet_task_required/) | 19.0.1.0.0 |  | Set task on timesheet as a mandatory field
