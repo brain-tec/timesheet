@@ -39,6 +39,7 @@ addon | version | maintainers | summary
 [hr_timesheet_type_non_billable](hr_timesheet_type_non_billable/) | 17.0.1.0.0 | <a href='https://github.com/mpascuall'><img src='https://github.com/mpascuall.png' width='32' height='32' style='border-radius:50%;' alt='mpascuall'/></a> | HR Timesheet Type Non Billable
 [hr_timesheet_unusual_days](hr_timesheet_unusual_days/) | 17.0.1.0.0 | <a href='https://github.com/CRogos'><img src='https://github.com/CRogos.png' width='32' height='32' style='border-radius:50%;' alt='CRogos'/></a> | HR Timesheet Calendar Unusual Days
 [project_task_analytic_propagation](project_task_analytic_propagation/) | 17.0.1.0.0 | <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> | Updates timesheet's analytic account when their task changes the analytic.
+[project_timesheet_billable_per_line](project_timesheet_billable_per_line/) | 17.0.1.0.0 |  | Generate sales orders from billable timesheets grouped by analytic account
 [sale_timesheet_line_exclude](sale_timesheet_line_exclude/) | 17.0.1.2.1 |  | Exclude Timesheet Line from Sale Order
 [sale_timesheet_rounded](sale_timesheet_rounded/) | 17.0.1.0.0 |  | Round timesheet entries amount based on project settings.
 [sale_timesheet_timeline](sale_timesheet_timeline/) | 17.0.1.0.0 |  | Dates planning in sales order lines
