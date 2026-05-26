@@ -31,6 +31,7 @@ addon | version | maintainers | summary
 [hr_timesheet_time_control_begin_end](hr_timesheet_time_control_begin_end/) | 19.0.1.0.2 | <a href='https://github.com/CRogos'><img src='https://github.com/CRogos.png' width='32' height='32' style='border-radius:50%;' alt='CRogos'/></a> | HR Timesheet Time Control begin/end
 [project_timesheet_holidays_dynamic_description](project_timesheet_holidays_dynamic_description/) | 19.0.1.0.0 |  | Use the time off description for the generated timesheet lines.
 [sale_order_update_timesheet_price](sale_order_update_timesheet_price/) | 19.0.1.0.0 |  | Update the unit price of already invoiced sale order lines by creating a new line
+[sale_timesheet_invoice_link](sale_timesheet_invoice_link/) | 19.0.0.1.1 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Link invoices with timesheet lines
 [sale_timesheet_line_exclude](sale_timesheet_line_exclude/) | 19.0.1.0.0 |  | Exclude Timesheet Line from Sale Order
 
 [//]: # (end addons)
