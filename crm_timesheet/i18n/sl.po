@@ -6,7 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-06-08 08:46+0000\n"
+"Last-Translator: Matjaz Mozetic <matjaz@luxim.si>\n"
 "Language-Team: none\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -14,49 +15,50 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: crm_timesheet
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_case_kanban_view_leads
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.view_crm_lead_kanban
 msgid "<i class=\"fa fa-lg fa-play-circle\" title=\"Start\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-lg fa-play-circle\" title=\"Začni\"/>"
 
 #. module: crm_timesheet
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_case_kanban_view_leads
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.view_crm_lead_kanban
 msgid "<i class=\"fa fa-lg fa-stop-circle\" title=\"Stop\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-lg fa-stop-circle\" title=\"Končaj\"/>"
 
 #. module: crm_timesheet
 #: model:ir.model,name:crm_timesheet.model_account_analytic_line
 msgid "Analytic Line"
-msgstr ""
+msgstr "Analitična postavka"
 
 #. module: crm_timesheet
 #: model:ir.model,name:crm_timesheet.model_hr_timesheet_switch
 msgid "Helper to quickly switch between timesheet lines"
-msgstr ""
+msgstr "Pomagalo za hitro preklapljanje med postavkami časovnice"
 
 #. module: crm_timesheet
 #: model:ir.model.fields,help:crm_timesheet.field_crm_lead__show_time_control
 msgid "Indicate which time control button to show, if any."
-msgstr ""
+msgstr "Kaže katere gumbe časovne kontrole se prikazuje, če sploh katerega."
 
 #. module: crm_timesheet
 #: model:ir.model,name:crm_timesheet.model_crm_lead
 #: model:ir.model.fields,field_description:crm_timesheet.field_account_analytic_line__lead_id
 msgid "Lead/Opportunity"
-msgstr ""
+msgstr "Indic/priložnost"
 
 #. module: crm_timesheet
 #: model:ir.model.fields,field_description:crm_timesheet.field_crm_lead__project_id
 msgid "Project"
-msgstr ""
+msgstr "Projekt"
 
 #. module: crm_timesheet
 #: model:ir.model.fields,field_description:crm_timesheet.field_crm_lead__show_time_control
 msgid "Show Time Control"
-msgstr ""
+msgstr "Prikaži časovno kontrolo"
 
 #. module: crm_timesheet
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_case_kanban_view_leads
@@ -65,7 +67,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_lead_view_form
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.view_crm_lead_kanban
 msgid "Start work"
-msgstr ""
+msgstr "Začni z delom"
 
 #. module: crm_timesheet
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_case_kanban_view_leads
@@ -74,10 +76,10 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_lead_view_form
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.view_crm_lead_kanban
 msgid "Stop work"
-msgstr ""
+msgstr "Ustavi delo"
 
 #. module: crm_timesheet
 #: model:ir.model.fields,field_description:crm_timesheet.field_crm_lead__timesheet_ids
 #: model_terms:ir.ui.view,arch_db:crm_timesheet.crm_lead_view_form
 msgid "Timesheet"
-msgstr ""
+msgstr "Časovnica"
