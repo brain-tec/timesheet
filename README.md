@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [hr_timesheet_autofill_project_off](hr_timesheet_autofill_project_off/) | 19.0.1.0.0 |  | Timesheet - Autofill project off
 [hr_timesheet_begin_end](hr_timesheet_begin_end/) | 19.0.1.0.0 |  | Timesheet - Begin/End Hours
 [hr_timesheet_day_week](hr_timesheet_day_week/) | 19.0.1.0.0 |  | Timesheets - Day of Week
+[hr_timesheet_task_domain](hr_timesheet_task_domain/) | 19.0.1.0.0 |  | Limit task selection to tasks on currently-selected project
 [hr_timesheet_task_required](hr_timesheet_task_required/) | 19.0.1.0.0 |  | Set task on timesheet as a mandatory field
 [hr_timesheet_task_stage](hr_timesheet_task_stage/) | 19.0.1.0.0 |  | Open/Close task from corresponding Task Log entry
 [hr_timesheet_time_control](hr_timesheet_time_control/) | 19.0.1.0.2 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project timesheet time control
